@@ -1,0 +1,1 @@
+console.log("CIMEC KIPU Landing Page Activa");
